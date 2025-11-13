@@ -3,8 +3,8 @@ TAO-Net Research Snapshot
 
 This repository hosts the in-progress implementation of **TAO-Net**, our two-stage adaptive OOD classification pipeline for encrypted traffic. The current snapshot keeps all research code, scripts, and experiments needed for the paper under review.
 
-> ⚠️ Configuration availability  
-> Final configuration files (hyperparameters, dataset manifests, and deployment scripts) will be published once the paper successfully completes peer review. Until then, only the minimal wiring required to reproduce internal experiments is provided.
+> Configuration availability  
+> Final configuration files (hyperparameters, dataset manifests, and deployment scripts) will be published once the paper successfully completes peer review.
 
 Key directories
 ---------------
